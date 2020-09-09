@@ -1,0 +1,1 @@
+#Emacs 0. Opening
