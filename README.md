@@ -1,3 +1,2 @@
-#0x00 Vagrant
-##Task 0
-This is my first task at Holberton
+#0x03-Git
+##Updating the README.md file
